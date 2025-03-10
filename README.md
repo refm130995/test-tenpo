@@ -1,4 +1,4 @@
-# Proyecto de Imágenes tenpo
+# Proyecto de Imágenes Tenpo
 
 Este proyecto es una aplicación que se conecta a la API de Unsplash para mostrar imágenes de alta calidad. Permite la visualización de fotos en una interfaz sencilla, con soporte para paginación.
 
