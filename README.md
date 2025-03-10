@@ -1,4 +1,4 @@
-# Proyecto de Imágenes Unsplash
+# Proyecto de Imágenes tenpo
 
 Este proyecto es una aplicación que se conecta a la API de Unsplash para mostrar imágenes de alta calidad. Permite la visualización de fotos en una interfaz sencilla, con soporte para paginación.
 
@@ -18,7 +18,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local.
 Primero, clona el repositorio a tu máquina local.
 
 ```bash
-git clone https://github.com/tu-usuario/unsplash-app.git
+git clone https://github.com/refm130995/test-tenpo
 ```
 
 # 2. Instalar las Dependencias
@@ -26,7 +26,7 @@ git clone https://github.com/tu-usuario/unsplash-app.git
 Navega a la carpeta del proyecto y ejecuta el siguiente comando para instalar las dependencias:
 
 ```bash
-cd unsplash-app
+cd test-tenpo
 npm install
 ```
 
